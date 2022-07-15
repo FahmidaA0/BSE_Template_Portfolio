@@ -20,6 +20,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was to light up the neopixel. The interface of the neopixel composes of the positive wire voltage and the negative wire ground.
+My first milestone was to light up the neopixel. The interface of the neopixel composes of the positive wire voltage, negative wire ground, and data wire. A diode is controlled by an integrated circuit that gains information and changes to data to manage the light. This data is then passed on to the next diode; it is an ongoing process. To power my neopixel I used alligator clips to connect the ground circuit of the LED strip to the ground pin on the arduino. I also used alligator clips to connect the voltage circuit of the LED circuit to the pin 5V on the arduino. Then I used a jumper wire to connect the data wire to digital pin 5 on the arduino uno board. Lastly, I opened up the Arduino IDE to upload the operation "ColorPalette".
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
