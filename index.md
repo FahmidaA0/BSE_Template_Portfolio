@@ -14,7 +14,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone is 
+My second milestone was to create the cyclone game using the neopixel and a mini push button. The objective of the game is to push the button when the cycling light reaches the designated LED. The difficulty level rises when successful attempts are made. A mini push button has two pairs of legs that are internally connected; the button will complete a circuit once it is pressed. It can be either placed on a breadboard or a printed circuit board. I placed the button in the middle of a breadboard and connected one leg to the 5V supply and the other leg to digital pin 8.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
