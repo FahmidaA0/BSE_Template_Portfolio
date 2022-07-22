@@ -9,7 +9,7 @@ I am working on the LED Cyclone Game. I am utilizing an addressable neopixel str
 ![Arduino Cyclone Game]
 
 # Final Milestone
-My final milestone is adding my LED cyclone game to a circular frame. I chose a 13 x 13 inch clock and used double sided tape to attach the addressable LED strip to the inside of the frame. 
+My final milestone is adding my LED cyclone game to a circular frame. I chose a 13 x 13 inch clock and used double sided tape to attach the addressable LED strip to the inside of the frame. I realized that my neopixel was longer than the circumference of the frame so I layered the ends of the neopixel on top of each other. To make further improvements on this game, I will add a battery to the back of the clock. I can also have each hand of the clock be assigned a color on the neopixel.  
 
 [![Final Milestone][![Fahmida A Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1658499650/video_to_markdown/images/youtube--WU0rRkF4QH4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=WU0rRkF4QH4 "Fahmida A Milestone 3"){:target="_blank" rel="noopener"}
 
