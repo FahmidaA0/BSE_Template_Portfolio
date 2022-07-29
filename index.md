@@ -5,7 +5,6 @@ I am working on the LED Cyclone Game. I am utilizing an addressable neopixel str
 |:--:|:--:|:--:|:--:|
 | Fahmida Aupho | Midwood | Electrical Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 ![Arduino Cyclone Game](file:///C:/Users/djift/Downloads/preview.jpg)
 
 # Final Milestone
