@@ -3,7 +3,7 @@ I am working on the LED Cyclone Game. I am utilizing an addressable neopixel str
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Fahmida Aupho | Midwood | Electrical Engineering | Incoming Senior
+| Fahmida Aupho | Midwood | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://www.bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 ![Arduino Cyclone Game](file:///C:/Users/djift/Downloads/preview.jpg)
