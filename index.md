@@ -3,7 +3,7 @@ I am working on the LED Cyclone Game. I am utilizing an addressable neopixel str
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Fahmida Aupho | Midwood | Computer Engineering | Graduated
+| Fahmida Aupho | Midwood | Computer Science | Graduated
 
 ![LED Cyclone Game](https://cdn131.picsart.com/ebcb6bec-a06f-4de0-a551-e0602501cddb/406332158023201.jpg?to=crop&type=webp&r=1008x1344&q=85)
 
